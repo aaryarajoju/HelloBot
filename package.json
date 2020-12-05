@@ -1,0 +1,24 @@
+{
+  "name": "hellobot",
+  "version": "1.0.0",
+  "description": "A discord bot that says hello",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaryarajoju/HelloBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaryarajoju/HelloBot/issues"
+  },
+  "homepage": "https://github.com/aaryarajoju/HelloBot#readme"
+}
